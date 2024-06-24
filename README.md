@@ -1,7 +1,7 @@
 # Text-Detection-BERT
 
 ## Data sources used:
-https://www.kaggle.com/datasets/srijan041/detect-llm-generated-text-dataset
+https://www.kaggle.com/datasets/srijan041/detect-llm-generated-text-dataset <br>
 https://www.kaggle.com/datasets/paradoxplusparadise/dataset-1 <br>
 https://www.kaggle.com/datasets/paradoxplusparadise/dataset-4
 
